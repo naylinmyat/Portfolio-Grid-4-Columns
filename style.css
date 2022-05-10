@@ -86,7 +86,7 @@ nav{
     border: none;
     background: transparent;
     color: white;
-    padding: 1rem;
+    padding: 0.6rem 2rem;
     cursor: pointer;
     font-size: 1rem;
 }
@@ -421,7 +421,9 @@ nav .nav-content-mobile-view .signup-btn:hover{
     :root{
         font-size: 16px;
     }
-
+    p{
+        color: rgb(43, 42, 42); 
+    }
     /* Header Mobile View start */
     .menu,
     .login-and-signup-buttons{
