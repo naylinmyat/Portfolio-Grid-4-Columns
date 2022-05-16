@@ -65,6 +65,7 @@ nav{
     width: 40%;
     display: flex;
     justify-content: space-between;
+    margin-left: 8%;
 }
 .menu a{
     color: white;
