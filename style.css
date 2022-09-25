@@ -24,7 +24,7 @@ body{
 }
 p{
     margin-bottom: 0;
-    color: rgb(107, 104, 104);
+    color: #84899d;
     font-weight: lighter;
 }
 h3{
@@ -185,7 +185,7 @@ nav .nav-content-mobile-view .signup-btn:hover{
     font-size: 4rem;
 }
 .hero-body-content > p{
-    color: rgb(204, 199, 199);
+    color: whitesmoke;
     margin: 2% 0 4% 0;
 }
 .hero-body-content .mobile-view-hero-paragraph{
@@ -391,7 +391,7 @@ nav .nav-content-mobile-view .signup-btn:hover{
 .phone-number span,
 .email span{
     margin-left: 5%;
-    color: rgb(107, 104, 104);
+    color: #84899d;
 }
 .footer-text{
     text-align: center;
@@ -423,7 +423,7 @@ nav .nav-content-mobile-view .signup-btn:hover{
         font-size: 16px;
     }
     p{
-        color: rgb(43, 42, 42); 
+        color: #84899d; 
     }
     /* Header Mobile View start */
     .menu,
